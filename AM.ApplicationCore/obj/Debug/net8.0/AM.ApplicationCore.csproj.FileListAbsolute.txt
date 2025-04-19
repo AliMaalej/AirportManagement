@@ -1,0 +1,11 @@
+C:\Users\GnaR26\Desktop\Atelier-Chap4-S1\AirportManagement\AM.ApplicationCore\bin\Debug\net8.0\AM.ApplicationCore.deps.json
+C:\Users\GnaR26\Desktop\Atelier-Chap4-S1\AirportManagement\AM.ApplicationCore\bin\Debug\net8.0\AM.ApplicationCore.dll
+C:\Users\GnaR26\Desktop\Atelier-Chap4-S1\AirportManagement\AM.ApplicationCore\bin\Debug\net8.0\AM.ApplicationCore.pdb
+C:\Users\GnaR26\Desktop\Atelier-Chap4-S1\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GnaR26\Desktop\Atelier-Chap4-S1\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\GnaR26\Desktop\Atelier-Chap4-S1\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.AssemblyInfo.cs
+C:\Users\GnaR26\Desktop\Atelier-Chap4-S1\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\GnaR26\Desktop\Atelier-Chap4-S1\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.dll
+C:\Users\GnaR26\Desktop\Atelier-Chap4-S1\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\refint\AM.ApplicationCore.dll
+C:\Users\GnaR26\Desktop\Atelier-Chap4-S1\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.pdb
+C:\Users\GnaR26\Desktop\Atelier-Chap4-S1\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\ref\AM.ApplicationCore.dll
