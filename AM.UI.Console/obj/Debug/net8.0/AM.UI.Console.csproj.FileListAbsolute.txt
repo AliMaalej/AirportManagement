@@ -144,3 +144,4 @@ C:\Users\GnaR26\Desktop\Atelier-Chap4-S1\AirportManagement\AM.UI.Console\obj\Deb
 C:\Users\GnaR26\Desktop\Atelier-Chap4-S1\AirportManagement\AM.UI.Console\obj\Debug\net8.0\AM.UI.Console.pdb
 C:\Users\GnaR26\Desktop\Atelier-Chap4-S1\AirportManagement\AM.UI.Console\obj\Debug\net8.0\AM.UI.Console.genruntimeconfig.cache
 C:\Users\GnaR26\Desktop\Atelier-Chap4-S1\AirportManagement\AM.UI.Console\obj\Debug\net8.0\ref\AM.UI.Console.dll
+C:\Users\GnaR26\Desktop\Atelier-Chap4-S1\AirportManagement\AM.UI.Console\obj\Debug\net8.0\AM.UI.Console.sourcelink.json

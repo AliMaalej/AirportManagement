@@ -10,6 +10,5 @@ namespace AM.ApplicationCore.Interfaces
     public interface IFlightService : IService<Flight>
     {
         public IEnumerable<Flight> GetFlightsByDestination(string destination);
-        public IEnumerable<Plane> GetFlightsByPlaneCapacity(int capacity);
     }
 }

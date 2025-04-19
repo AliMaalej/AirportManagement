@@ -9,3 +9,4 @@ C:\Users\GnaR26\Desktop\Atelier-Chap4-S1\AirportManagement\AM.ApplicationCore\ob
 C:\Users\GnaR26\Desktop\Atelier-Chap4-S1\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\refint\AM.ApplicationCore.dll
 C:\Users\GnaR26\Desktop\Atelier-Chap4-S1\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.pdb
 C:\Users\GnaR26\Desktop\Atelier-Chap4-S1\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\ref\AM.ApplicationCore.dll
+C:\Users\GnaR26\Desktop\Atelier-Chap4-S1\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.sourcelink.json

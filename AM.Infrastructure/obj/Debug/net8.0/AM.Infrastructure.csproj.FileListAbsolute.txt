@@ -15,3 +15,4 @@ C:\Users\GnaR26\Desktop\Atelier-Chap4-S1\AirportManagement\AM.Infrastructure\obj
 C:\Users\GnaR26\Desktop\Atelier-Chap4-S1\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.pdb
 C:\Users\GnaR26\Desktop\Atelier-Chap4-S1\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.genruntimeconfig.cache
 C:\Users\GnaR26\Desktop\Atelier-Chap4-S1\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\ref\AM.Infrastructure.dll
+C:\Users\GnaR26\Desktop\Atelier-Chap4-S1\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.sourcelink.json

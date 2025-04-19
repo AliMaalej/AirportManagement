@@ -33,10 +33,12 @@ namespace AM.UI.Console
                 flights.ToList().ShowList("=== Flights list ===", System.Console.WriteLine);
 
                 IPlaneService planeService = new PlaneService(unitOfWork);
-                var planes = planeService.getPlanesByCreationDate();
-                planes.ToList().ShowList("=== Planes list ===", System.Console.WriteLine);
+                var planes = planeService.getPlanesByCreationDate(-3);
+                planes.ToList().ShowList("=== Planes list (created before the last 3 years) ===", System.Console.WriteLine);
 
-                planeService.GetFlightsByPlaneCapacity(int capacity);
+
+                flights = planeService.GetFlightsByPlaneCapacity(200);
+                flights.ToList().ShowList("=== Flights list (with 200 Capacity Planes) ===", System.Console.WriteLine);
             }
         }
     }

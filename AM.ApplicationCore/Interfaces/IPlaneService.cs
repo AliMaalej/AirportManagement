@@ -9,6 +9,7 @@ namespace AM.ApplicationCore.Interfaces
 {
     public interface IPlaneService : IService<Plane>
     {
-        public IEnumerable<Plane> getPlanesByCreationDate();
+        public IEnumerable<Plane> getPlanesByCreationDate(int years);
+        public IEnumerable<Flight> GetFlightsByPlaneCapacity(int capacity);
     }
 }

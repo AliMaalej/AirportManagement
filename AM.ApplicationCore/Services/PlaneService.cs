@@ -13,17 +13,17 @@ namespace AM.ApplicationCore.Services
         public PlaneService(IUnitOfWork unitOfWork) : base(unitOfWork)
         {
         }
-        public IEnumerable<Plane> getPlanesByCreationDate()
+        public IEnumerable<Plane> getPlanesByCreationDate(int years)
         {
-            var date = DateTime.Now.AddYears(-3);
+            var date = DateTime.Now.AddYears(years);
             return GetMany(p => p.ManufactureDate < date);
         }
 
-        public IEnumerable<Flight> GetFlightsByPlaneCapacity(int capacity)
+        IEnumerable<Flight> IPlaneService.GetFlightsByPlaneCapacity(int capacity)
         {
-            return GetMany(p => p.Capacity == capacity)
-                .SelectMany(p => p.Flights) 
-                .ToList(); 
+            var planes = GetMany(p => p.Capacity == capacity).ToList();
+            return planes.SelectMany(p => p.Flights)
+                .ToList();
         }
     }
 }
